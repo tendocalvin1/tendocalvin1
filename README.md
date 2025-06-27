@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Tendo Calvin
 
-I'm a passionate Full Stack Developer and tech enthusiast dedicated to building real-world, impactful software solutions.  
+I'm a passionate Software Engineer and tech enthusiast dedicated to building real-world, impactful software solutions.  
 I love working on both frontend and backend technologies, exploring AI/ML, and contributing to open-source projects.  
 Let's build something amazing together! 🚀
 
@@ -47,7 +47,7 @@ Let's build something amazing together! 🚀
 - 💻 I’m currently building full stack apps using **React**, **Node.js** and **Django**
 - 🤖 I’m diving deeper into **Machine Learning** with **TensorFlow** and **Scikit-learn**
 - 🔌 I love working on **hardware-software** projects using **Arduino**
-- 🌐 I’m learning **Pyton** for backend and systems-level development
+- 🌐 I’m learning **Python** for backend and systems-level development
 - 🧠 Always excited to learn, collaborate, and grow!
 
 ---
