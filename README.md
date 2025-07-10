@@ -47,7 +47,8 @@ Let's build something amazing together! 🚀
 - 💻 I’m currently building full stack apps using **React**, **Node.js** and **Django**
 - 🤖 I’m diving deeper into **Machine Learning** with **TensorFlow** and **Scikit-learn**
 - 🔌 I love working on **hardware-software** projects using **Arduino**
-- 🌐 I’m learning **Python** for backend and systems-level development
+- 🌐 I’m learning **Python** for backend and systems-level development as well as developing robust APIs. 
+- 🌐 I'm learning and doing some research with **Python** about its use in Artificial Intelligence.
 - 🧠 Always excited to learn, collaborate, and grow!
 
 ---
