@@ -11,9 +11,9 @@
 
 ## 🧠 About Me
 
-> 🎓 CS student | 💡 Explorer of everything from **transistors** to **LLMs**  
+> 🎓 Student for Life | 💡 Explorer of everything from **transistors** to **LLMs**  
 > 🤖 Passionate about solving real-world problems using code  
-> 📚 Love AI, Robotics, UI/UX, and Software Engineering  
+> 📚 Love AI, Robotics, DevOps, and Software Engineering  
 > 🤯 Fun fact: I enjoy reading novels to boost reasoning and personal growth  
 
 ---
