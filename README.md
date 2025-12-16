@@ -64,6 +64,7 @@
 - ☁️ Cloud Computing & DevOps
 - 🤖 Fine-tuning LLM Agents
 - 🐳 Containerization & Orchestration (Docker + Kubernetes)
+- 🌍 Data Science & Machine Learning in recommendation systems
 
 ---
 
