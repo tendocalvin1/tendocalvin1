@@ -61,10 +61,10 @@
 ## 🚀 Currently Exploring
 
 - 🌍 Full Stack Web Development (React + Node + Django)
-- ☁️ Cloud Computing & DevOps
-- 🤖 Fine-tuning LLM Agents
+- ☁️ Cloud Computing & DevOps Engineering
+- 🤖 Fine-tuning and Learning about AI Agents
 - 🐳 Containerization & Orchestration (Docker + Kubernetes)
-- 🌍 Data Science & Machine Learning in recommendation systems
+- 🌍 Data Science & Machine Learning in 2026.
 
 ---
 
