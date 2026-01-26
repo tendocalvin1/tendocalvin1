@@ -13,7 +13,7 @@
 
 > 🎓 Student for Life | 💡 Explorer of everything from **transistors** to **LLMs**  
 > 🤖 Passionate about solving real-world problems using code  
-> 📚 Love AI, Robotics, DevOps, and Software Engineering  
+> 📚 Love AI, Robotics, DevOps Engineering and Software Development 
 > 🤯 Fun fact: I enjoy reading novels to boost reasoning and personal growth  
 
 ---
@@ -61,7 +61,7 @@
 ## 🚀 Currently Exploring
 
 - 🌍 Full Stack Web Development (React + Node + Django)
-- ☁️ Cloud Computing & DevOps Engineering
+- ☁️ Cloud Computing & DevOps Engineering (Amazon Web Services)
 - 🤖 Fine-tuning and Learning about AI Agents
 - 🐳 Containerization & Orchestration (Docker + Kubernetes)
 - 🌍 Data Science & Machine Learning in 2026.
