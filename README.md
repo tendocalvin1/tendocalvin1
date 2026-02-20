@@ -60,7 +60,8 @@
 
 ## 🚀 Currently Exploring
 
-- 🌍 Full Stack Web Development (React + Node + Django)
+- 🌍 Full-Stack Development (React + Node + Django)
+- 🌍 Mobile App Development (React Native)
 - ☁️ Cloud Computing & DevOps Engineering
 - 🤖 Fine-tuning and Learning about AI Agents
 - 🐳 Containerization & Orchestration (Docker + Kubernetes)
