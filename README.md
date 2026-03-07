@@ -13,7 +13,7 @@
 
 > 🎓 Student for Life | 💡 Explorer of everything from **transistors** to **LLMs**. 
 > 🤖 Passionate about solving real-world problems using code. 
-> 📚 Love AI, Robotics, DevOps Engineering and Software Development.
+> 📚 Interests lie in AI, DevOps and Cloud Computing, full-stack development and Content Creation.
 > 🤯 Fun fact: I enjoy reading novels to boost reasoning and personal growth. 
 
 ---
