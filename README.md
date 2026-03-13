@@ -1,104 +1,142 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#38bdf8;">Tendo Calvin</span> </h1>
-<p align="center">🏗️ Building & learning — one line of code at a time 🇺🇬</p>
+<!-- HEADER -->
+<h1 align="center">Hi 👋 I'm Tendo Calvin</h1>
+
+<h3 align="center">
+Full Stack Engineer • AI Systems Builder • Backend & ML Integration
+</h3>
 
 <p align="center">
-  <a href="mailto:tendocalvin2002@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/tendocalvin1"><img src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+I design and build scalable web & mobile applications powered by intelligent systems.
 </p>
-
----
-
-## 🧠 About Me
-
-> 🎓 Student for Life | 💡 Explorer of everything from **transistors** to **LLMs**. 
-> 🤖 Passionate about solving real-world problems using code. 
-> 📚 Interests lie in AI, DevOps and Cloud Computing, full-stack development and Content Creation.
-> 🤯 Fun fact: I enjoy reading novels to boost reasoning and personal growth. 
-
----
-
-## 💻 Tech Stack
-
-### 🧠 AI / Data / ML
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,numpy,pandas,scikit-learn" />
-</p>
-
-### 🌐 Full Stack Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,django,flask,html,css,tailwind" />
-</p>
-
-### 🧰 Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,go,c" />
-</p>
-
-### 🛢️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-### 🎨 UI/UX & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,xd,postman,vscode,vim" />
-</p>
-
-### 🧩 Others & OS
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,gitlab,latex" />
-</p>
-
----
-
-## 🚀 Currently Exploring
-- 🌍 Mobile App Development (React Native)
-- ☁️ Cloud Computing & DevOps Engineering
-- 🤖 Fine-tuning and Learning about AI Agents
-- 🐳 Containerization & Orchestration (Docker + Kubernetes)
-
-
----
-
-## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tendocalvin1&show_icons=true&theme=tokyonight&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tendocalvin1&layout=compact&theme=tokyonight" height="180"/>
+  <a href="mailto:tendocalvin2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/>
+  </a>
+
+  <a href="https://github.com/tendocalvin1">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+# 🚀 What I Do
+
+I build **production-ready digital products** that combine:
+
+• Scalable backend systems  
+• Modern web & mobile interfaces  
+• AI-powered features  
+• Data-driven architectures  
+
+My focus is on building systems that can **handle real users, real data, and real scale.**
+
+---
+
+# 🧠 Core Expertise
+
+### Full Stack Engineering
+- React
+- Next.js
+- Node.js
+- Express
+- REST APIs
+- System Design
+
+### AI / Machine Learning
+- TensorFlow
+- PyTorch
+- Scikit-Learn
+- Data Analysis
+- ML Integration into products
+
+### Backend & Infrastructure
+- API architecture
+- Database design
+- Authentication systems
+- Performance optimization
+
+### Databases
+- PostgreSQL
+- MongoDB
+- MySQL
+
+### DevOps & Cloud
+- Docker
+- Linux
+- Git / CI workflows
+- Cloud deployment
+
+---
+
+# 🏗️ What I'm Building
+
+I believe engineers should **ship products**, not just write tutorials.
+
+Current focus:
+
+• AI-powered applications  
+• Scalable backend systems  
+• Mobile apps using React Native  
+• Developer tools and automation systems  
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+Python • JavaScript • TypeScript • Go • C++ • Java
+
+### Frontend
+React • Next.js • TailwindCSS • HTML • CSS
+
+### Backend
+Node.js • Express • Django • Flask
+
+### Databases
+MongoDB • PostgreSQL • MySQL
+
+### Infrastructure
+Linux • Docker • Git • Kubernetes
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tendocalvin1&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tendocalvin1&show_icons=true&theme=tokyonight"/>
 </p>
-
----
-
-## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tendocalvin1&theme=tokyonight&no-frame=true&margin-w=10&column=7"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tendocalvin1&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📬 Connect with Me
+# 🔥 Contribution Activity
 
 <p align="center">
-  <a href="mailto:tendocalvin2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/tendocalvin1"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://streak-stats.demolab.com/?user=tendocalvin1&theme=tokyonight"/>
 </p>
 
 ---
 
-### _“Build like an engineer, think like a scientist, solve like a hacker.”_
+# 🌍 Open to
+
+• Remote Software Engineering roles  
+• Open Source Collaboration  
+• AI / ML Product Development  
+• Startup Projects  
+
+---
+
+# 📬 Contact
+
+📧 Email: **tendocalvin2002@gmail.com**
+
+---
+
+<p align="center">
+"Build things that matter. Ship systems that scale."
+</p>
