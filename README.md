@@ -1,4 +1,5 @@
-<!-- HERO SECTION -->
+<!-- HERO -->
+
 <h1 align="center">🚀 Tendo Calvin</h1>
 
 <h3 align="center">
@@ -26,75 +27,70 @@ Most developers write code.
 
 I build **systems that work in production.**
 
-• Design scalable backend architectures  
-• Build APIs used by real users  
-• Integrate AI into real products (not demos)  
-• Optimize systems for performance and scale  
+• Scalable backend architectures
+• APIs used by real users
+• AI integrated into real products
+• Performance + system optimization
 
 ---
 
-# 🧠 Core Strengths (What You’re Hiring Me For)
+# 🧠 Core Strengths
 
 ### ⚙️ Backend Engineering
-- Node.js, Express, Django, FastAPI  
-- REST API design & system architecture  
-- Authentication, caching, scaling  
 
-### 🧠 AI Integration (Real-World Use)
-- LLM apps (OpenAI, LangChain, RAG pipelines)  
-- ML models (TensorFlow, PyTorch, Scikit-learn)  
-- Data pipelines & intelligent features  
+* Node.js, Express, Django, FastAPI
+* API design, authentication, caching, scaling
 
-### 🌐 Full Stack Development
-- React, Next.js  
-- API-driven frontend architecture  
-- Mobile apps (React Native)  
+### 🧠 AI Systems
 
-### 🗄️ Databases
-- PostgreSQL (primary weapon)
-- MongoDB  
-- MySQL  
-- Redis (performance optimization)
+* LLM apps (RAG, LangChain, OpenAI)
+* ML models (TensorFlow, PyTorch)
+* Data pipelines & intelligent features
 
-### ☁️ DevOps & Infrastructure
-- Docker & containerized apps  
-- CI/CD (GitHub Actions)  
-- Linux systems  
-- Cloud (AWS, GCP)
+### 🌐 Full Stack
+
+* React, Next.js
+* API-driven frontend
+* Mobile (React Native)
 
 ---
 
-# 🧰 Tech Stack (Focused, Not Noisy)
+# 🧰 Tech Stack (Full Capability)
 
-## Languages
-Python • JavaScript • TypeScript • Go • Java • C++
+<p align="center">
+  <img src="./assets/tech-stack.png" alt="Tech Stack" width="95%" />
+</p>
 
-## AI / ML / Data
-TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy  
-LLMs • RAG Pipelines • NLP • Transformers  
+---
 
-## Frameworks
-Node.js • Express • Django • FastAPI  
-React • Next.js • TailwindCSS  
+# 🚀 Featured Projects
 
-## Databases
-PostgreSQL • MongoDB • MySQL • Redis  
+### 🔹 AI SaaS Application (RAG System)
 
-## Tools
-Docker • Kubernetes • Git • Linux • Nginx • Postman  
+* FastAPI + LangChain + PostgreSQL
+* Document retrieval + chat interface
+* Real-world AI use case
+
+### 🔹 Scalable Backend API
+
+* Node.js + Express + Redis
+* Auth, caching, rate limiting
+* Built for performance
+
+### 🔹 Full Stack App
+
+* Next.js + Django
+* API-driven architecture
+* Production-ready structure
 
 ---
 
 # 🏗️ What I’m Building
 
-I don’t just learn. I ship.
-
-Current focus:
-
-• AI-powered SaaS products  
-• Scalable backend systems  
-• Developer tools  
-• Automation systems  
+• AI-powered SaaS products
+• Scalable backend systems
+• Developer tools
+• Automation systems
 
 ---
 
@@ -120,19 +116,19 @@ Current focus:
 
 # 🌍 Open For Opportunities
 
-✔ Remote Backend Engineering Roles  
-✔ AI / ML Product Development  
-✔ Startup Engineering Teams  
-✔ Freelance / Contract Work  
+✔ Remote Backend Engineering
+✔ AI Product Development
+✔ Startup Teams
+✔ Freelance / Contract
 
 ---
 
 # 📬 Contact
 
-📧 tendocalvin2002@gmail.com  
+📧 [tendocalvin2002@gmail.com](mailto:tendocalvin2002@gmail.com)
 
 ---
 
 <p align="center">
-<b>"I don't just write code. I build systems that scale."</b>
+<b>"I build systems. Not just code."</b>
 </p>
