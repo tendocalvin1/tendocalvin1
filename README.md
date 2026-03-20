@@ -1,132 +1,102 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋 I'm Tendo Calvin</h1>
+<!-- HERO SECTION -->
+<h1 align="center">🚀 Tendo Calvin</h1>
 
 <h3 align="center">
-Full Stack Engineer • AI Systems Builder • Backend & ML Integration
+Backend Engineer • AI Systems Builder • Scalable Product Developer
 </h3>
 
 <p align="center">
-I design and build scalable web & mobile applications powered by intelligent systems.
+I build <b>production-ready backend systems</b> and <b>AI-powered applications</b> that handle real users, real data, and real scale.
 </p>
 
 <p align="center">
   <a href="mailto:tendocalvin2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Hire_Me-red?style=for-the-badge&logo=gmail"/>
   </a>
-
   <a href="https://github.com/tendocalvin1">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-View_Work-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
-# 🚀 What I Do
+# 💡 What I Actually Do
 
-I build **production-ready digital products** that combine:
+Most developers write code.
 
-• Scalable backend systems  
-• Modern web & mobile interfaces  
-• AI-powered features  
-• Data-driven architectures  
+I build **systems that work in production.**
 
-My focus is on building systems that can **handle real users, real data, and real scale.**
-
----
-
-# 🧠 Core Expertise
-
-### Full Stack Engineering
-- React
-- Next.js
-- Node.js
-- Express
-- REST APIs
-- System Design
-
-### AI / Machine Learning
-- TensorFlow
-- PyTorch
-- Scikit-Learn
-- Data Analysis
-- ML Integration into products
-
-### Backend & Infrastructure
-- API architecture
-- Database design
-- Authentication systems
-- Performance optimization
-
-### Databases
-- PostgreSQL
-- MongoDB
-- MySQL
-
-### DevOps & Cloud
-- Docker
-- Linux
-- Git / CI workflows
-- Cloud deployment
+• Design scalable backend architectures  
+• Build APIs used by real users  
+• Integrate AI into real products (not demos)  
+• Optimize systems for performance and scale  
 
 ---
 
-# 🏗️ What I'm Building
+# 🧠 Core Strengths (What You’re Hiring Me For)
 
-I believe engineers should **ship products**, not just write tutorials.
+### ⚙️ Backend Engineering
+- Node.js, Express, Django, FastAPI  
+- REST API design & system architecture  
+- Authentication, caching, scaling  
+
+### 🧠 AI Integration (Real-World Use)
+- LLM apps (OpenAI, LangChain, RAG pipelines)  
+- ML models (TensorFlow, PyTorch, Scikit-learn)  
+- Data pipelines & intelligent features  
+
+### 🌐 Full Stack Development
+- React, Next.js  
+- API-driven frontend architecture  
+- Mobile apps (React Native)  
+
+### 🗄️ Databases
+- PostgreSQL (primary weapon)
+- MongoDB  
+- MySQL  
+- Redis (performance optimization)
+
+### ☁️ DevOps & Infrastructure
+- Docker & containerized apps  
+- CI/CD (GitHub Actions)  
+- Linux systems  
+- Cloud (AWS, GCP)
+
+---
+
+# 🧰 Tech Stack (Focused, Not Noisy)
+
+## Languages
+Python • JavaScript • TypeScript • Go • Java • C++
+
+## AI / ML / Data
+TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy  
+LLMs • RAG Pipelines • NLP • Transformers  
+
+## Frameworks
+Node.js • Express • Django • FastAPI  
+React • Next.js • TailwindCSS  
+
+## Databases
+PostgreSQL • MongoDB • MySQL • Redis  
+
+## Tools
+Docker • Kubernetes • Git • Linux • Nginx • Postman  
+
+---
+
+# 🏗️ What I’m Building
+
+I don’t just learn. I ship.
 
 Current focus:
 
-• AI-powered applications  
+• AI-powered SaaS products  
 • Scalable backend systems  
-• Mobile apps using React Native  
-• Developer tools and automation systems  
-
-## 🧰 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+• Developer tools  
+• Automation systems  
 
 ---
-
-### Data Science, ML & Analytics
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
----
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### Cloud, DevOps & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 # 📊 GitHub Stats
 
@@ -140,7 +110,7 @@ Current focus:
 
 ---
 
-# 🔥 Contribution Activity
+# 🔥 Contribution Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=tendocalvin1&theme=tokyonight"/>
@@ -148,21 +118,21 @@ Current focus:
 
 ---
 
-# 🌍 Open to
+# 🌍 Open For Opportunities
 
-• Remote Software Engineering roles  
-• Open Source Collaboration  
-• AI / ML Product Development  
-• Startup Projects  
+✔ Remote Backend Engineering Roles  
+✔ AI / ML Product Development  
+✔ Startup Engineering Teams  
+✔ Freelance / Contract Work  
 
 ---
 
 # 📬 Contact
 
-📧 Email: **tendocalvin2002@gmail.com**
+📧 tendocalvin2002@gmail.com  
 
 ---
 
 <p align="center">
-"Build things that matter. Ship systems that scale."
+<b>"I don't just write code. I build systems that scale."</b>
 </p>
