@@ -127,25 +127,6 @@ My goal is to combine **strong software engineering fundamentals with practical 
 
 # 🚀 Selected Projects
 
-## Tripwise
-
-**AI-powered travel planning platform**
-
-Currently building Tripwise as a full-stack travel planning application with a React frontend and Django backend.
-
-**Stack:** Django · Django REST Framework · React · PostgreSQL · Docker
-
-**Focus:**
-
-* Backend architecture
-* Destination management
-* User authentication
-* Travel planning workflows
-* REST APIs
-* AI-powered recommendations
-* Production-oriented application structure
-
----
 
 ## FocusFlow
 
@@ -198,23 +179,6 @@ A backend service for processing water-quality data and applying machine learnin
 * Data processing
 * Machine learning integration
 * Service-oriented architecture
-
----
-
-## DayStar
-
-**Daycare management system**
-
-A web application designed to manage daycare operations and related workflows.
-
-**Focus:**
-
-* CRUD workflows
-* Authentication
-* Database design
-* Backend development
-* Business logic
-* Full-stack application development
 
 ---
 
